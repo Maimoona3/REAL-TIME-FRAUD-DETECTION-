@@ -43,7 +43,7 @@ Frauddetection/
 
 **⚙️ Installation & Setup**
 1. Clone the repository
-git clone https://github.com/your-username/fraud-detection.git
+git clone https://github.com/Maimoona3/REAL-TIME-FRAUD-DETECTION-
 cd fraud-detection/App
 2. Install dependencies
 pip install fastapi uvicorn sqlalchemy scikit-learn python-jose
